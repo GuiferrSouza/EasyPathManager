@@ -1,4 +1,4 @@
-﻿# EasyPathManager Library
+﻿# EasyPathManager
 
 The `EasyPathManager` library provides classes for managing file and directory paths in .NET. These classes offer methods for creating, adding, removing, and checking the existence of files and directories, making it easier to handle path-related operations.
 
